@@ -1,4 +1,8 @@
-## Deustches Tastaturlayout für Ubuntu bei der Uefi-Installion
+# Ubuntu/Bios nach Ubuntu/Uefi umziehen
+
+Die folgenden Befehlszeilen beschreiben, wie man ein im Bios/Legacy-Modus installiertes Ubuntu in eine Uefi-Installation auf einer anderen Festplatte umwandelt.
+
+## Deutsches Tastaturlayout für Ubuntu bei der Uefi-Installion
 console-setup/layoutcode?=de
 
 ## Linux mit Uefi neben Windows einrichten
